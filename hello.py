@@ -12,3 +12,6 @@ def c():
 
 def d():
     pass
+
+def function_gui():
+    pass
